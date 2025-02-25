@@ -7,6 +7,7 @@
 🔄 Posibilidad de mover elementos de una lista a otra dinámicamente.
 
 🚀 Tecnologías utilizadas
+
 HTML
 
 CSS
